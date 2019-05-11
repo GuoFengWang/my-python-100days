@@ -14,6 +14,12 @@ Date: 2018-03-02
 """
 
 # +
+"""
+Version: 1.0
+Author: Andy
+Date: 2019-5-10
+
+"""
 from random import randint
 
 money=1000
