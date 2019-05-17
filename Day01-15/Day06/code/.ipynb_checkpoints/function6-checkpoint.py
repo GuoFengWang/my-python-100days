@@ -14,7 +14,7 @@ def foo1():
 
 
 foo1()
-print(a)  # NameError
+# print(a)  # NameError
 
 # 全局作用域
 b = 10
