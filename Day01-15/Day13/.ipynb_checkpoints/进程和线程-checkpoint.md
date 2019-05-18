@@ -37,11 +37,11 @@ def main():
     download_task('Python从入门到住院.pdf')
     download_task('Peking Hot.avi')
     end = time()
-    print('总共耗费了%.2f秒.' % (end - start))
+    print('总共耗费了.2f秒.' % (end - start))
 
 
 if __name__ == '__main__':
-    main()
+    main().
 ```
 
 下面是运行程序得到的一次运行结果。
